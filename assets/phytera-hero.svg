@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Phytera modular growing system concept">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef4e8"/><stop offset="1" stop-color="#fbfaf5"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#4d963c"/><stop offset="1" stop-color="#285f2c"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#123b2d" flood-opacity=".15"/></filter></defs>
+<rect width="900" height="700" rx="42" fill="url(#bg)"/>
+<circle cx="700" cy="150" r="100" fill="#dfeccb"/>
+<g filter="url(#s)">
+<path d="M245 175h410l-48 105H293z" fill="#193d31"/><rect x="330" y="278" width="18" height="180" rx="9" fill="#315c45"/><rect x="553" y="278" width="18" height="180" rx="9" fill="#315c45"/>
+<path d="M258 432l122-64 122 64-122 68z" fill="#e7eadf" stroke="#b8c9b1" stroke-width="4"/><path d="M380 500v106L258 540V432z" fill="#d9ded2"/><path d="M502 432v108L380 606V500z" fill="#c9d2c5"/>
+<path d="M410 432l122-64 122 64-122 68z" fill="#f2f3ed" stroke="#b8c9b1" stroke-width="4"/><path d="M532 500v106L410 540V432z" fill="#e0e4db"/><path d="M654 432v108L532 606V500z" fill="#cfd8cc"/>
+</g>
+<g fill="url(#g)"><ellipse cx="337" cy="420" rx="22" ry="58" transform="rotate(-28 337 420)"/><ellipse cx="391" cy="408" rx="22" ry="62" transform="rotate(26 391 408)"/><ellipse cx="365" cy="383" rx="18" ry="50"/><ellipse cx="492" cy="420" rx="22" ry="58" transform="rotate(-28 492 420)"/><ellipse cx="548" cy="402" rx="23" ry="63" transform="rotate(28 548 402)"/><ellipse cx="520" cy="378" rx="18" ry="50"/></g>
+<g stroke="#79aa51" stroke-width="8" stroke-linecap="round"><path d="M365 455V370"/><path d="M520 455V365"/></g>
+<g fill="#85b94f"><circle cx="320" cy="205" r="8"/><circle cx="370" cy="205" r="8"/><circle cx="420" cy="205" r="8"/><circle cx="470" cy="205" r="8"/><circle cx="520" cy="205" r="8"/><circle cx="570" cy="205" r="8"/></g>
+<text x="450" y="655" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#123b2d">PHYTERA • MODULAR GROWING SYSTEM</text></svg>
